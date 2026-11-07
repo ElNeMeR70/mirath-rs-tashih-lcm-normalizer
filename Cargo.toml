@@ -1,0 +1,10 @@
+[package]
+name = "mirath-rs-tashih-lcm-normalizer"
+version = "1.0.0"
+edition = "2021"
+description = "Tashih Al-Inkisar Four Ratios (Tamathul, Tadakhul, Tawafuq, Tabayun) Normalizer"
+authors = ["Mahmoud ElNemer <sultanelnemer@gmail.com>"]
+
+[[bin]]
+name = "mirath_rs_tashih_lcm_normalizer"
+path = "main.rs"
